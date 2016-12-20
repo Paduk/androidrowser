@@ -1,0 +1,48 @@
+﻿<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="UTF-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<title>gcm sender</title>
+		<script src="//code.jquery.com/jquery-1.12.0.min.js"></script>
+		<script src="//code.jquery.com/jquery-migrate-1.2.1.min.js"></script>
+	
+		
+<script type="text/javascript">
+	
+   $(document).ready(function(){
+		$("#btn").click(function() { 
+
+		
+		var url = "gcm_second.php"
+		var title = $("#title").val();
+		var content = $("#content").val();
+		var data = $("#data").val();
+		
+		var form_data = {
+			title: title,
+			content: content,
+			data: data
+		};
+		$.ajax({
+			type: "POST",
+			url: url,
+			data: form_data,
+			success: function(response) {
+				alert(response);
+			}
+		});
+		return false;
+	});
+	
+	
+	});
+</script> 	
+</head>
+<body>
+	Title : <input type="text" id="title"> <br />
+	Content : <input type="text" id="content"> <br />
+	Data : <input type="text" id="data"> <br />
+	<button id="btn">Send
+</body>
+</html>
