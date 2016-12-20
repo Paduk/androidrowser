@@ -1,0 +1,12 @@
+bootstrap_notify.js
+
+line 319,341 : location.reload();를 추가함으로써
+알람창이 사라지면 자동으로 페이지 새로고침함
+
+demo.js
+
+line 113 : 구글 API 지도 좌표를 매개변수로 받아서 출력
+line 133 : Nofitication 알람의 매개변수를 좌표,메시지 로 받음
+           TIMER는 9초 설정
+line 135 ~ 147 : cookie 함수를 통해, 새로온 알람 쿠키저장
+Cookie -> Web(Local) Storage로 변경

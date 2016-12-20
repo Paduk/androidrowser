@@ -1,0 +1,2572 @@
+{
+"records": [
+{
+  "idx" : "1",
+  "type" : "msg",
+  "number" : "01035452038",
+  "text" : "Hello hj"
+}
+,{
+  "idx" : "2",
+  "type" : "call",
+  "number" : "010-4775-3016",
+  "text" : "X"
+}
+,{
+  "idx" : "3",
+  "type" : "msg",
+  "number" : "01035452038",
+  "text" : "Tjfdb"
+}
+,{
+  "idx" : "4",
+  "type" : "call",
+  "number" : "01047753016",
+  "text" : "X"
+}
+,{
+  "idx" : "5",
+  "type" : "msg",
+  "number" : "01035452038",
+  "text" : "?담꽬?"
+}
+,{
+  "idx" : "6",
+  "type" : "call",
+  "number" : "01047753016",
+  "text" : "X"
+}
+,{
+  "idx" : "7",
+  "type" : "msg",
+  "number" : "01035452038",
+  "text" : "Tjfu"
+}
+,{
+  "idx" : "8",
+  "type" : "call",
+  "number" : "01047753016",
+  "text" : "X"
+}
+,{
+  "idx" : "9",
+  "type" : "msg",
+  "number" : "01035452038",
+  "text" : "?쒓"
+}
+,{
+  "idx" : "10",
+  "type" : "call",
+  "number" : "01066048480",
+  "text" : "X"
+}
+,{
+  "idx" : "11",
+  "type" : "msg",
+  "number" : "01035452038",
+  "text" : "?쒕컻prls"
+}
+,{
+  "idx" : "12",
+  "type" : "msg",
+  "number" : "01035452038",
+  "text" : "Hellworisks"
+}
+,{
+  "idx" : "13",
+  "type" : "msg",
+  "number" : "15991111",
+  "text" : "[Web諛쒖떊] ?섎굹,01/25,19:31 880******85007 異쒓툑19,500?"
+}
+,{
+  "idx" : "14",
+  "type" : "msg",
+  "number" : "01035452038",
+  "text" : "112"
+}
+,{
+  "idx" : "15",
+  "type" : "msg",
+  "number" : "01024052073",
+  "text" : "以"
+}
+,{
+  "idx" : "16",
+  "type" : "call",
+  "number" : "01095110198",
+  "text" : "X"
+}
+,{
+  "idx" : "17",
+  "type" : "msg",
+  "number" : "01035452038",
+  "text" : "臾몄옄 ?뚯뒪?"
+}
+,{
+  "idx" : "18",
+  "type" : "msg",
+  "number" : "01035452038",
+  "text" : "?뚯뒪?"
+}
+,{
+  "idx" : "19",
+  "type" : "msg",
+  "number" : "01035452038",
+  "text" : "Jello?щ줈?"
+}
+,{
+  "idx" : "20",
+  "type" : "msg",
+  "number" : "01035452038",
+  "text" : "제발hhh"
+}
+,{
+  "idx" : "21",
+  "type" : "msg",
+  "number" : "01035452038",
+  "text" : "이제 한글 된다 !!"
+}
+,{
+  "idx" : "22",
+  "type" : "msg",
+  "number" : "01035452038",
+  "text" : "ㄴㄷㅅ"
+}
+,{
+  "idx" : "23",
+  "type" : "msg",
+  "number" : "01035452038",
+  "text" : "문자테스트 문자테스트 문자테스트 문자테스트 문자테스트 문자테스트"
+}
+,{
+  "idx" : "24",
+  "type" : "msg",
+  "number" : "01035452038",
+  "text" : "문자테스트 문자테스트 문자테스트 문자테스트 문자테스트 문자테스트 문자테스트 문자테스트 문자테스트 문자테스트 문자테스트ㅅㆍㄷ‥"
+}
+,{
+  "idx" : "25",
+  "type" : "call",
+  "number" : "01064186714",
+  "text" : "X"
+}
+,{
+  "idx" : "26",
+  "type" : "call",
+  "number" : "01024052073",
+  "text" : "X"
+}
+,{
+  "idx" : "27",
+  "type" : "msg",
+  "number" : "01064186714",
+  "text" : "새마을금고 9003-2125-8145-8 노승룡107000"
+}
+,{
+  "idx" : "28",
+  "type" : "msg",
+  "number" : "15991111",
+  "text" : "[Web발신] 하나,01/26,14:42 880******85007 출금2,000원 GS25남포역점 잔액88,725원"
+}
+,{
+  "idx" : "29",
+  "type" : "msg",
+  "number" : "15991111",
+  "text" : "[Web발신] 하나,01/26,14:53 880******85007 입금200,000원 봄내빌304 잔액288,725원"
+}
+,{
+  "idx" : "30",
+  "type" : "msg",
+  "number" : "01032442703",
+  "text" : "돈 보냈읍니다 행복하세요^-^"
+}
+,{
+  "idx" : "31",
+  "type" : "msg",
+  "number" : "01032442703",
+  "text" : "공과금 완납 부탁드릴께요^-^"
+}
+,{
+  "idx" : "32",
+  "type" : "msg",
+  "number" : "01032442703",
+  "text" : "^-^"
+}
+,{
+  "idx" : "33",
+  "type" : "msg",
+  "number" : "15991111",
+  "text" : "[Web발신] 하나,01/26,15:29 880******85007 출금3,000원 자스민(북문점) 잔액285,725원"
+}
+,{
+  "idx" : "34",
+  "type" : "msg",
+  "number" : "01035452038",
+  "text" : "1"
+}
+,{
+  "idx" : "35",
+  "type" : "msg",
+  "number" : "01035452038",
+  "text" : "2"
+}
+,{
+  "idx" : "36",
+  "type" : "msg",
+  "number" : "01035452038",
+  "text" : "3"
+}
+,{
+  "idx" : "37",
+  "type" : "msg",
+  "number" : "01035452038",
+  "text" : "호잇"
+}
+,{
+  "idx" : "38",
+  "type" : "msg",
+  "number" : "01023892938",
+  "text" : "[Web발신] 캐치콜<통화중> 01023892938 님이 전화하셨습니다 연결:통화버튼"
+}
+,{
+  "idx" : "39",
+  "type" : "call",
+  "number" : "01023892938",
+  "text" : "X"
+}
+,{
+  "idx" : "40",
+  "type" : "call",
+  "number" : "01022022075",
+  "text" : "X"
+}
+,{
+  "idx" : "41",
+  "type" : "msg",
+  "number" : "15991111",
+  "text" : "[Web발신] 하나,01/26,22:04 880******85007 입금30,000원 최창현 잔액279,225원"
+}
+,{
+  "idx" : "42",
+  "type" : "call",
+  "number" : "01024052073",
+  "text" : "X"
+}
+,{
+  "idx" : "43",
+  "type" : "msg",
+  "number" : "15991111",
+  "text" : "[Web발신] 하나,01/26,22:52 880******85007 출금1,800원 비지에프리테일 잔액277,425원"
+}
+,{
+  "idx" : "44",
+  "type" : "msg",
+  "number" : "15991111",
+  "text" : "[Web발신] 하나,01/26,23:17 880******85007 입금30,000원 박재현 잔액307,425원"
+}
+,{
+  "idx" : "45",
+  "type" : "msg",
+  "number" : "0220338500",
+  "text" : "[한국모바일인증(주)] 본인인증번호는 377698 입니다. 정확히 입력해주세요."
+}
+,{
+  "idx" : "46",
+  "type" : "call",
+  "number" : "01025341358",
+  "text" : "X"
+}
+,{
+  "idx" : "47",
+  "type" : "call",
+  "number" : "01025341358",
+  "text" : "X"
+}
+,{
+  "idx" : "48",
+  "type" : "msg",
+  "number" : "01024052073",
+  "text" : "입금완료"
+}
+,{
+  "idx" : "49",
+  "type" : "msg",
+  "number" : "15991111",
+  "text" : "[Web발신] 하나,01/27,14:26 880******85007 출금2,600원 요거프레소 잔액304,825원"
+}
+,{
+  "idx" : "50",
+  "type" : "msg",
+  "number" : "15991111",
+  "text" : "[Web발신] 하나,01/27,17:35 880******85007 출금5,800원 에스알에스코리 잔액99,025원"
+}
+,{
+  "idx" : "51",
+  "type" : "call",
+  "number" : "01024052073",
+  "text" : "X"
+}
+,{
+  "idx" : "52",
+  "type" : "msg",
+  "number" : "15991111",
+  "text" : "[Web발신] 하나,01/27,22:41 880******85007 출금3,300원 비지에프리테일 잔액95,725원"
+}
+,{
+  "idx" : "53",
+  "type" : "call",
+  "number" : "01091924300",
+  "text" : "X"
+}
+,{
+  "idx" : "54",
+  "type" : "call",
+  "number" : "01091924300",
+  "text" : "X"
+}
+,{
+  "idx" : "55",
+  "type" : "msg",
+  "number" : "15991111",
+  "text" : "[Web발신] 하나,01/28,13:11 880******85007 출금5,800원 에스알에스코리 잔액89,925원"
+}
+,{
+  "idx" : "56",
+  "type" : "msg",
+  "number" : "15991111",
+  "text" : "[Web발신] 하나,01/28,15:52 880******85007 출금2,600원 요거프레소 잔액87,325원"
+}
+,{
+  "idx" : "57",
+  "type" : "call",
+  "number" : "01024052073",
+  "text" : "X"
+}
+,{
+  "idx" : "58",
+  "type" : "msg",
+  "number" : "01024052073",
+  "text" : "잘못걸은거야 쏘리"
+}
+,{
+  "idx" : "59",
+  "type" : "call",
+  "number" : "01046951307",
+  "text" : "X"
+}
+,{
+  "idx" : "60",
+  "type" : "msg",
+  "number" : "15991111",
+  "text" : "[Web발신] 하나,01/28,21:42 880******85007 출금5,500원 레드버켓부산대 잔액47,825원"
+}
+,{
+  "idx" : "61",
+  "type" : "msg",
+  "number" : "01035452038",
+  "text" : "문자테스트"
+}
+,{
+  "idx" : "62",
+  "type" : "msg",
+  "number" : "01035452038",
+  "text" : "토요잇"
+}
+,{
+  "idx" : "63",
+  "type" : "msg",
+  "number" : "01035452038",
+  "text" : "하잇"
+}
+,{
+  "idx" : "64",
+  "type" : "call",
+  "number" : "01024052073",
+  "text" : "X"
+}
+,{
+  "idx" : "65",
+  "type" : "msg",
+  "number" : "01035452038",
+  "text" : "ㅅ"
+}
+,{
+  "idx" : "66",
+  "type" : "msg",
+  "number" : "01035452038",
+  "text" : "문자들어오나요 ?"
+}
+,{
+  "idx" : "67",
+  "type" : "call",
+  "number" : "01032240757",
+  "text" : "X"
+}
+,{
+  "idx" : "68",
+  "type" : "msg",
+  "number" : "01035452038",
+  "text" : "ㅅㅇㅈㄴㄷ"
+}
+,{
+  "idx" : "69",
+  "type" : "msg",
+  "number" : "01035452038",
+  "text" : "ㅈㄱㄷㅅ"
+}
+,{
+  "idx" : "70",
+  "type" : "msg",
+  "number" : "01035452038",
+  "text" : "ㄴㄷㅇㄴ으"
+}
+,{
+  "idx" : "71",
+  "type" : "msg",
+  "number" : "01035452038",
+  "text" : "호호"
+}
+,{
+  "idx" : "72",
+  "type" : "call",
+  "number" : "01032240757",
+  "text" : "X"
+}
+,{
+  "idx" : "73",
+  "type" : "msg",
+  "number" : "01035452038",
+  "text" : "머지"
+}
+,{
+  "idx" : "74",
+  "type" : "call",
+  "number" : "01024052073",
+  "text" : "X"
+}
+,{
+  "idx" : "75",
+  "type" : "msg",
+  "number" : "01035452038",
+  "text" : "하이 !"
+}
+,{
+  "idx" : "76",
+  "type" : "call",
+  "number" : "01093448686",
+  "text" : "X"
+}
+,{
+  "idx" : "77",
+  "type" : "msg",
+  "number" : "01035452038",
+  "text" : "헷ㄴㄴ‥"
+}
+,{
+  "idx" : "78",
+  "type" : "msg",
+  "number" : "01035452038",
+  "text" : "ㅎㄷ"
+}
+,{
+  "idx" : "79",
+  "type" : "call",
+  "number" : "01051710880",
+  "text" : "X"
+}
+,{
+  "idx" : "80",
+  "type" : "kakaotalk",
+  "number" : "영호",
+  "text" : "ㅅ든"
+}
+,{
+  "idx" : "81",
+  "type" : "msg",
+  "number" : "01035452038",
+  "text" : "ㅇㅅㄷㅂㅈㄱ"
+}
+,{
+  "idx" : "82",
+  "type" : "kakaotalk",
+  "number" : "임지선",
+  "text" : "사진"
+}
+,{
+  "idx" : "83",
+  "type" : "kakaotalk",
+  "number" : "임지선",
+  "text" : "응응 오늘은 여기갓다ㅋㅋㅋㅋㅋㅋㅋㅋ"
+}
+,{
+  "idx" : "84",
+  "type" : "kakaotalk",
+  "number" : "임지선",
+  "text" : "2월 여행 계획운 잘 세우고잇낰ㅋㅋ"
+}
+,{
+  "idx" : "85",
+  "type" : "call",
+  "number" : "01093448686",
+  "text" : "X"
+}
+,{
+  "idx" : "86",
+  "type" : "msg",
+  "number" : "01035452038",
+  "text" : "노ㆍ능디"
+}
+,{
+  "idx" : "87",
+  "type" : "msg",
+  "number" : "15991111",
+  "text" : "[Web발신] 하나,01/30,22:49 880******85007 출금2,550원 GS25광장점 잔액38,375원"
+}
+,{
+  "idx" : "88",
+  "type" : "call",
+  "number" : "01024052073",
+  "text" : "X"
+}
+,{
+  "idx" : "89",
+  "type" : "msg",
+  "number" : "01035452038",
+  "text" : "쭈니"
+}
+,{
+  "idx" : "90",
+  "type" : "kakaotalk",
+  "number" : "엄마♡",
+  "text" : "카톡테스트"
+}
+,{
+  "idx" : "91",
+  "type" : "kakaotalk",
+  "number" : "엄마♡",
+  "text" : "호잇~~!"
+}
+,{
+  "idx" : "92",
+  "type" : "kakaotalk",
+  "number" : "엄마♡",
+  "text" : "호요이힏ㅂㅈㅂ니드"
+}
+,{
+  "idx" : "93",
+  "type" : "kakaotalk",
+  "number" : "안상",
+  "text" : "일단 한준햄이 갈켜준거 하지말고"
+}
+,{
+  "idx" : "94",
+  "type" : "kakaotalk",
+  "number" : "다예",
+  "text" : "안녕하세요(하하) 마이러버에 정보 확인하셨더라구요ㅎㅎ 아직 안주무실꺼같아서 연락했어요^^"
+}
+,{
+  "idx" : "95",
+  "type" : "kakaotalk",
+  "number" : "엄마♡",
+  "text" : "ㅅ"
+}
+,{
+  "idx" : "96",
+  "type" : "msg",
+  "number" : "01024052073",
+  "text" : "호잇"
+}
+,{
+  "idx" : "97",
+  "type" : "kakaotalk",
+  "number" : "다예",
+  "text" : "ㅋㅋㅋㅋ 제가좀 야행성이라서.. 저는 23살 수학교육과 다니고있어요"
+}
+,{
+  "idx" : "98",
+  "type" : "kakaotalk",
+  "number" : "다예",
+  "text" : "이번에 졸업하시는건가요?"
+}
+,{
+  "idx" : "99",
+  "type" : "msg",
+  "number" : "01035452038",
+  "text" : "ㆍㅅㄷ"
+}
+,{
+  "idx" : "100",
+  "type" : "kakaotalk",
+  "number" : "엄마♡",
+  "text" : "ㄴㄷ"
+}
+,{
+  "idx" : "101",
+  "type" : "call",
+  "number" : "01024052073",
+  "text" : "X"
+}
+,{
+  "idx" : "102",
+  "type" : "kakaotalk",
+  "number" : "다예",
+  "text" : "네 저 이제 4학년맞아요ㅋㅋ 저도 뭐라고 부를지 잘 모르겠네요ㅎㅎ"
+}
+,{
+  "idx" : "103",
+  "type" : "kakaotalk",
+  "number" : "다예",
+  "text" : "4학년이시구나ㅎ 11학번이세요?"
+}
+,{
+  "idx" : "104",
+  "type" : "call",
+  "number" : "01024052073",
+  "text" : "X"
+}
+,{
+  "idx" : "105",
+  "type" : "call",
+  "number" : "01024052073",
+  "text" : "X"
+}
+,{
+  "idx" : "106",
+  "type" : "call",
+  "number" : "01024052073",
+  "text" : "X"
+}
+,{
+  "idx" : "107",
+  "type" : "call",
+  "number" : "01024052073",
+  "text" : "X"
+}
+,{
+  "idx" : "108",
+  "type" : "kakaotalk",
+  "number" : "엄마♡",
+  "text" : "보이스톡 해요"
+}
+,{
+  "idx" : "109",
+  "type" : "kakaotalk",
+  "number" : "엄마♡",
+  "text" : "00:04"
+}
+,{
+  "idx" : "110",
+  "type" : "kakaotalk",
+  "number" : "엄마♡",
+  "text" : "페이스톡 해요"
+}
+,{
+  "idx" : "111",
+  "type" : "kakaotalk",
+  "number" : "엄마♡",
+  "text" : "부재중"
+}
+,{
+  "idx" : "112",
+  "type" : "call",
+  "number" : "01024052073",
+  "text" : "X"
+}
+,{
+  "idx" : "113",
+  "type" : "kakaotalk",
+  "number" : "표동희",
+  "text" : "ㅎㅈㅇㅎ"
+}
+,{
+  "idx" : "114",
+  "type" : "call",
+  "number" : "01024052073",
+  "text" : "X"
+}
+,{
+  "idx" : "115",
+  "type" : "msg",
+  "number" : "01024052073",
+  "text" : "ㄴ"
+}
+,{
+  "idx" : "116",
+  "type" : "call",
+  "number" : "01024052073",
+  "text" : "X"
+}
+,{
+  "idx" : "117",
+  "type" : "msg",
+  "number" : "01035452038",
+  "text" : "ㄴㄷㆍ"
+}
+,{
+  "idx" : "118",
+  "type" : "kakaotalk",
+  "number" : "엄마♡",
+  "text" : "ㅅㅈ"
+}
+,{
+  "idx" : "119",
+  "type" : "kakaotalk",
+  "number" : "엄마♡",
+  "text" : "ㅅㅈ"
+}
+,{
+  "idx" : "120",
+  "type" : "kakaotalk",
+  "number" : "엄마♡",
+  "text" : "ㄴㄷ"
+}
+,{
+  "idx" : "121",
+  "type" : "kakaotalk",
+  "number" : "엄마♡",
+  "text" : "ㄴㄷ"
+}
+,{
+  "idx" : "122",
+  "type" : "kakaotalk",
+  "number" : "엄마♡",
+  "text" : "ㄴㄷ"
+}
+,{
+  "idx" : "123",
+  "type" : "kakaotalk",
+  "number" : "엄마♡",
+  "text" : "ㄴᆞㄱㄴㄷ"
+}
+,{
+  "idx" : "124",
+  "type" : "kakaotalk",
+  "number" : "엄마♡",
+  "text" : "ㄴᆞㄱㄴㄷ"
+}
+,{
+  "idx" : "125",
+  "type" : "kakaotalk",
+  "number" : "엄마♡",
+  "text" : "ㄴᆞㄱㄴㄷ"
+}
+,{
+  "idx" : "126",
+  "type" : "kakaotalk",
+  "number" : "엄마♡",
+  "text" : "테스트에요"
+}
+,{
+  "idx" : "127",
+  "type" : "kakaotalk",
+  "number" : "엄마♡",
+  "text" : "테스트에요"
+}
+,{
+  "idx" : "128",
+  "type" : "kakaotalk",
+  "number" : "엄마♡",
+  "text" : "테스트에요"
+}
+,{
+  "idx" : "129",
+  "type" : "call",
+  "number" : "01024052073",
+  "text" : "X"
+}
+,{
+  "idx" : "130",
+  "type" : "kakaotalk",
+  "number" : "엄마♡",
+  "text" : "ㅅ"
+}
+,{
+  "idx" : "131",
+  "type" : "kakaotalk",
+  "number" : "엄마♡",
+  "text" : "ㅅ"
+}
+,{
+  "idx" : "132",
+  "type" : "kakaotalk",
+  "number" : "엄마♡",
+  "text" : "ㅅ"
+}
+,{
+  "idx" : "133",
+  "type" : "kakaotalk",
+  "number" : "엄마♡",
+  "text" : "호잇"
+}
+,{
+  "idx" : "134",
+  "type" : "kakaotalk",
+  "number" : "엄마♡",
+  "text" : "하잇"
+}
+,{
+  "idx" : "135",
+  "type" : "kakaotalk",
+  "number" : "엄마♡",
+  "text" : "ㄴㄷㅅㅈ"
+}
+,{
+  "idx" : "136",
+  "type" : "kakaotalk",
+  "number" : "다예",
+  "text" : "넵 근데 미리들어놔서 4학년땐 한학기에 10학점정도 들으면되요ㅋㅋ"
+}
+,{
+  "idx" : "137",
+  "type" : "kakaotalk",
+  "number" : "다예",
+  "text" : "어플을만드시구나... 역시 컴공인가요ㅋㅋㅋ"
+}
+,{
+  "idx" : "138",
+  "type" : "kakaotalk",
+  "number" : "표동희",
+  "text" : "ㅎㅈㅇㅎ"
+}
+,{
+  "idx" : "139",
+  "type" : "kakaotalk",
+  "number" : "다예",
+  "text" : "근데 여행은 그냥 저지르는사람이 갔다오는거같아요 경제적 시간적 여유가 있던없던 망설이면 못가더라구요.. 전 그냥 완벽한준비가 안된상태라도 저지르는편이라서.."
+}
+,{
+  "idx" : "140",
+  "type" : "kakaotalk",
+  "number" : "다예",
+  "text" : "그래서 좀 아쉬움도많이남는 여행들이 많았지만.. 그래서 같은곳에 더 나은조건을 준비해서 또가고싶다는점은 좋은거같아요ㅋㅋ"
+}
+,{
+  "idx" : "141",
+  "type" : "call",
+  "number" : "01024052073",
+  "text" : "X"
+}
+,{
+  "idx" : "142",
+  "type" : "call",
+  "number" : "01024052073",
+  "text" : "X"
+}
+,{
+  "idx" : "143",
+  "type" : "kakaotalk",
+  "number" : "다예",
+  "text" : "네ㅋㅋㅋ 저도 먼저잔다고 할랫는뎈ㅋㅋ 통햇네여 잘자요ㅋㅋ"
+}
+,{
+  "idx" : "144",
+  "type" : "msg",
+  "number" : "01035452038",
+  "text" : "ㄴ"
+}
+,{
+  "idx" : "145",
+  "type" : "msg",
+  "number" : "01035452038",
+  "text" : "욥"
+}
+,{
+  "idx" : "146",
+  "type" : "kakaotalk",
+  "number" : "영호",
+  "text" : "ㅎㅈㅇㅎ"
+}
+,{
+  "idx" : "147",
+  "type" : "kakaotalk",
+  "number" : "영호",
+  "text" : "제이쿼리가"
+}
+,{
+  "idx" : "148",
+  "type" : "kakaotalk",
+  "number" : "영호",
+  "text" : "하나도"
+}
+,{
+  "idx" : "149",
+  "type" : "kakaotalk",
+  "number" : "영호",
+  "text" : "안돌아가는데"
+}
+,{
+  "idx" : "150",
+  "type" : "kakaotalk",
+  "number" : "영호",
+  "text" : "무슨일일까"
+}
+,{
+  "idx" : "151",
+  "type" : "kakaotalk",
+  "number" : "영호",
+  "text" : "이게"
+}
+,{
+  "idx" : "152",
+  "type" : "kakaotalk",
+  "number" : "영호",
+  "text" : "소스ㄱ대로올렷는데"
+}
+,{
+  "idx" : "153",
+  "type" : "kakaotalk",
+  "number" : "영호",
+  "text" : "정확히말하면"
+}
+,{
+  "idx" : "154",
+  "type" : "kakaotalk",
+  "number" : "영호",
+  "text" : "제이쿼리모바일이"
+}
+,{
+  "idx" : "155",
+  "type" : "kakaotalk",
+  "number" : "영호",
+  "text" : "안돌아간다"
+}
+,{
+  "idx" : "156",
+  "type" : "kakaotalk",
+  "number" : "영호",
+  "text" : "웹스쿨 그대로의 소스인데도"
+}
+,{
+  "idx" : "157",
+  "type" : "kakaotalk",
+  "number" : "영호",
+  "text" : "사진"
+}
+,{
+  "idx" : "158",
+  "type" : "kakaotalk",
+  "number" : "영호",
+  "text" : "으잉?"
+}
+,{
+  "idx" : "159",
+  "type" : "msg",
+  "number" : "number",
+  "text" : "text"
+}
+,{
+  "idx" : "160",
+  "type" : "kakaotalk",
+  "number" : "인빈",
+  "text" : "거짓말 마라"
+}
+,{
+  "idx" : "161",
+  "type" : "kakaotalk",
+  "number" : "인빈",
+  "text" : "주열이 버리고"
+}
+,{
+  "idx" : "162",
+  "type" : "kakaotalk",
+  "number" : "인빈",
+  "text" : "먹었다매"
+}
+,{
+  "idx" : "163",
+  "type" : "kakaotalk",
+  "number" : "이정담",
+  "text" : "아 맞다"
+}
+,{
+  "idx" : "164",
+  "type" : "kakaotalk",
+  "number" : "이정담",
+  "text" : "아 맞다"
+}
+,{
+  "idx" : "165",
+  "type" : "kakaotalk",
+  "number" : "이정담",
+  "text" : "그겅"
+}
+,{
+  "idx" : "166",
+  "type" : "kakaotalk",
+  "number" : "이정담",
+  "text" : "그겅"
+}
+,{
+  "idx" : "167",
+  "type" : "kakaotalk",
+  "number" : "이정담",
+  "text" : "내가 보내준 피피티"
+}
+,{
+  "idx" : "168",
+  "type" : "kakaotalk",
+  "number" : "이정담",
+  "text" : "내가 보내준 피피티"
+}
+,{
+  "idx" : "169",
+  "type" : "kakaotalk",
+  "number" : "이정담",
+  "text" : "그냥 보내면되는데"
+}
+,{
+  "idx" : "170",
+  "type" : "kakaotalk",
+  "number" : "이정담",
+  "text" : "그냥 보내면되는데"
+}
+,{
+  "idx" : "171",
+  "type" : "kakaotalk",
+  "number" : "이정담",
+  "text" : "제가 오늘 시험친다고 까먹고있었어요 ㅠㅠ"
+}
+,{
+  "idx" : "172",
+  "type" : "kakaotalk",
+  "number" : "이정담",
+  "text" : "제가 오늘 시험친다고 까먹고있었어요 ㅠㅠ"
+}
+,{
+  "idx" : "173",
+  "type" : "kakaotalk",
+  "number" : "이정담",
+  "text" : "풀이할거예요?"
+}
+,{
+  "idx" : "174",
+  "type" : "kakaotalk",
+  "number" : "이정담",
+  "text" : "풀이할거예요?"
+}
+,{
+  "idx" : "175",
+  "type" : "kakaotalk",
+  "number" : "이정담",
+  "text" : "근데숙제 냈던거 우리 다음시간에 풀이한적 없어서"
+}
+,{
+  "idx" : "176",
+  "type" : "kakaotalk",
+  "number" : "이정담",
+  "text" : "근데숙제 냈던거 우리 다음시간에 풀이한적 없어서"
+}
+,{
+  "idx" : "177",
+  "type" : "kakaotalk",
+  "number" : "이정담",
+  "text" : "굳이 안해도될거같아여!!"
+}
+,{
+  "idx" : "178",
+  "type" : "kakaotalk",
+  "number" : "이정담",
+  "text" : "굳이 안해도될거같아여!!"
+}
+,{
+  "idx" : "179",
+  "type" : "kakaotalk",
+  "number" : "이호찬",
+  "text" : "집갓나"
+}
+,{
+  "idx" : "180",
+  "type" : "kakaotalk",
+  "number" : "이호찬",
+  "text" : "집갓나"
+}
+,{
+  "idx" : "181",
+  "type" : "kakaotalk",
+  "number" : "이호찬",
+  "text" : "언제타까"
+}
+,{
+  "idx" : "182",
+  "type" : "kakaotalk",
+  "number" : "이호찬",
+  "text" : "언제타까"
+}
+,{
+  "idx" : "183",
+  "type" : "kakaotalk",
+  "number" : "이호찬",
+  "text" : "ㅋㅋㅋㅋㅋ"
+}
+,{
+  "idx" : "184",
+  "type" : "kakaotalk",
+  "number" : "이호찬",
+  "text" : "ㅋㅋㅋㅋㅋ"
+}
+,{
+  "idx" : "185",
+  "type" : "kakaotalk",
+  "number" : "이호찬",
+  "text" : "안되겟네"
+}
+,{
+  "idx" : "186",
+  "type" : "kakaotalk",
+  "number" : "이호찬",
+  "text" : "안되겟네"
+}
+,{
+  "idx" : "187",
+  "type" : "kakaotalk",
+  "number" : "이호찬",
+  "text" : "ㅋㅋㅋ물어바 ㅋㅋ"
+}
+,{
+  "idx" : "188",
+  "type" : "kakaotalk",
+  "number" : "이호찬",
+  "text" : "ㅋㅋㅋ물어바 ㅋㅋ"
+}
+,{
+  "idx" : "189",
+  "type" : "kakaotalk",
+  "number" : "고동희",
+  "text" : "호찬이랑 안탐 ㅎ"
+}
+,{
+  "idx" : "190",
+  "type" : "kakaotalk",
+  "number" : "고동희",
+  "text" : "호찬이랑 안탐 ㅎ"
+}
+,{
+  "idx" : "191",
+  "type" : "kakaotalk",
+  "number" : "고동희",
+  "text" : "(이모티콘)"
+}
+,{
+  "idx" : "192",
+  "type" : "kakaotalk",
+  "number" : "고동희",
+  "text" : "(이모티콘)"
+}
+,{
+  "idx" : "193",
+  "type" : "kakaotalk",
+  "number" : "이호찬",
+  "text" : "그래"
+}
+,{
+  "idx" : "194",
+  "type" : "kakaotalk",
+  "number" : "이호찬",
+  "text" : "그래"
+}
+,{
+  "idx" : "195",
+  "type" : "call",
+  "number" : "01051333567",
+  "text" : "X"
+}
+,{
+  "idx" : "196",
+  "type" : "msg",
+  "number" : "15991111",
+  "text" : "[Web발신] 하나,01/31,15:45 880******85007 출금3,300원 봉구스밥버거 잔액35,075원"
+}
+,{
+  "idx" : "197",
+  "type" : "kakaotalk",
+  "number" : "고동희",
+  "text" : "아 화난다 진짜 부들부들"
+}
+,{
+  "idx" : "198",
+  "type" : "kakaotalk",
+  "number" : "고동희",
+  "text" : "아 화난다 진짜 부들부들"
+}
+,{
+  "idx" : "199",
+  "type" : "kakaotalk",
+  "number" : "종호",
+  "text" : "ㅅ서울이구니"
+}
+,{
+  "idx" : "200",
+  "type" : "kakaotalk",
+  "number" : "종호",
+  "text" : "ㅅ서울이구니"
+}
+,{
+  "idx" : "201",
+  "type" : "kakaotalk",
+  "number" : "고동희",
+  "text" : "난 잠수"
+}
+,{
+  "idx" : "202",
+  "type" : "kakaotalk",
+  "number" : "고동희",
+  "text" : "난 잠수"
+}
+,{
+  "idx" : "203",
+  "type" : "kakaotalk",
+  "number" : "고동희",
+  "text" : "ㅎㅈㅇ"
+}
+,{
+  "idx" : "204",
+  "type" : "kakaotalk",
+  "number" : "고동희",
+  "text" : "ㅎㅈㅇ"
+}
+,{
+  "idx" : "205",
+  "type" : "kakaotalk",
+  "number" : "고동희",
+  "text" : "일단 db만 신청함 ?"
+}
+,{
+  "idx" : "206",
+  "type" : "kakaotalk",
+  "number" : "고동희",
+  "text" : "일단 db만 신청함 ?"
+}
+,{
+  "idx" : "207",
+  "type" : "kakaotalk",
+  "number" : "고동희",
+  "text" : "근데이거 서울이곻"
+}
+,{
+  "idx" : "208",
+  "type" : "kakaotalk",
+  "number" : "고동희",
+  "text" : "근데이거 서울이곻"
+}
+,{
+  "idx" : "209",
+  "type" : "kakaotalk",
+  "number" : "고동희",
+  "text" : "할거면 많이 들어야겟는대"
+}
+,{
+  "idx" : "210",
+  "type" : "kakaotalk",
+  "number" : "고동희",
+  "text" : "할거면 많이 들어야겟는대"
+}
+,{
+  "idx" : "211",
+  "type" : "kakaotalk",
+  "number" : "고동희",
+  "text" : "니랑 똑같이 민다"
+}
+,{
+  "idx" : "212",
+  "type" : "kakaotalk",
+  "number" : "고동희",
+  "text" : "니랑 똑같이 민다"
+}
+,{
+  "idx" : "213",
+  "type" : "kakaotalk",
+  "number" : "고동희",
+  "text" : "뭘로 할까 ?"
+}
+,{
+  "idx" : "214",
+  "type" : "kakaotalk",
+  "number" : "고동희",
+  "text" : "뭘로 할까 ?"
+}
+,{
+  "idx" : "215",
+  "type" : "call",
+  "number" : "01024052073",
+  "text" : "X"
+}
+,{
+  "idx" : "216",
+  "type" : "kakaotalk",
+  "number" : "고동희",
+  "text" : "이거 시험치는데..."
+}
+,{
+  "idx" : "217",
+  "type" : "kakaotalk",
+  "number" : "고동희",
+  "text" : "이거 시험치는데..."
+}
+,{
+  "idx" : "218",
+  "type" : "kakaotalk",
+  "number" : "영호",
+  "text" : "로컬호스트로"
+}
+,{
+  "idx" : "219",
+  "type" : "kakaotalk",
+  "number" : "영호",
+  "text" : "로컬호스트로"
+}
+,{
+  "idx" : "220",
+  "type" : "kakaotalk",
+  "number" : "영호",
+  "text" : "어캐들어가노"
+}
+,{
+  "idx" : "221",
+  "type" : "kakaotalk",
+  "number" : "영호",
+  "text" : "어캐들어가노"
+}
+,{
+  "idx" : "222",
+  "type" : "kakaotalk",
+  "number" : "표동희",
+  "text" : "?"
+}
+,{
+  "idx" : "223",
+  "type" : "kakaotalk",
+  "number" : "표동희",
+  "text" : "?"
+}
+,{
+  "idx" : "224",
+  "type" : "kakaotalk",
+  "number" : "표동희",
+  "text" : "깜"
+}
+,{
+  "idx" : "225",
+  "type" : "kakaotalk",
+  "number" : "표동희",
+  "text" : "깜"
+}
+,{
+  "idx" : "226",
+  "type" : "kakaotalk",
+  "number" : "영호",
+  "text" : "모"
+}
+,{
+  "idx" : "227",
+  "type" : "kakaotalk",
+  "number" : "영호",
+  "text" : "모"
+}
+,{
+  "idx" : "228",
+  "type" : "kakaotalk",
+  "number" : "영호",
+  "text" : "르"
+}
+,{
+  "idx" : "229",
+  "type" : "kakaotalk",
+  "number" : "영호",
+  "text" : "르"
+}
+,{
+  "idx" : "230",
+  "type" : "kakaotalk",
+  "number" : "영호",
+  "text" : "겟"
+}
+,{
+  "idx" : "231",
+  "type" : "kakaotalk",
+  "number" : "영호",
+  "text" : "겟"
+}
+,{
+  "idx" : "232",
+  "type" : "kakaotalk",
+  "number" : "영호",
+  "text" : "다"
+}
+,{
+  "idx" : "233",
+  "type" : "kakaotalk",
+  "number" : "영호",
+  "text" : "다"
+}
+,{
+  "idx" : "234",
+  "type" : "kakaotalk",
+  "number" : "영호",
+  "text" : "아 걍하지말까"
+}
+,{
+  "idx" : "235",
+  "type" : "kakaotalk",
+  "number" : "영호",
+  "text" : "아 걍하지말까"
+}
+,{
+  "idx" : "236",
+  "type" : "kakaotalk",
+  "number" : "영호",
+  "text" : "답이없다"
+}
+,{
+  "idx" : "237",
+  "type" : "kakaotalk",
+  "number" : "영호",
+  "text" : "답이없다"
+}
+,{
+  "idx" : "238",
+  "type" : "kakaotalk",
+  "number" : "영호",
+  "text" : "너무맨땅에헤딩이다"
+}
+,{
+  "idx" : "239",
+  "type" : "kakaotalk",
+  "number" : "영호",
+  "text" : "너무맨땅에헤딩이다"
+}
+,{
+  "idx" : "240",
+  "type" : "kakaotalk",
+  "number" : "영호",
+  "text" : "아는게잇어야"
+}
+,{
+  "idx" : "241",
+  "type" : "kakaotalk",
+  "number" : "영호",
+  "text" : "아는게잇어야"
+}
+,{
+  "idx" : "242",
+  "type" : "kakaotalk",
+  "number" : "영호",
+  "text" : "뭘"
+}
+,{
+  "idx" : "243",
+  "type" : "kakaotalk",
+  "number" : "영호",
+  "text" : "뭘"
+}
+,{
+  "idx" : "244",
+  "type" : "kakaotalk",
+  "number" : "영호",
+  "text" : "하지"
+}
+,{
+  "idx" : "245",
+  "type" : "kakaotalk",
+  "number" : "영호",
+  "text" : "하지"
+}
+,{
+  "idx" : "246",
+  "type" : "kakaotalk",
+  "number" : "영호",
+  "text" : "시"
+}
+,{
+  "idx" : "247",
+  "type" : "kakaotalk",
+  "number" : "영호",
+  "text" : "시"
+}
+,{
+  "idx" : "248",
+  "type" : "kakaotalk",
+  "number" : "영호",
+  "text" : "벌"
+}
+,{
+  "idx" : "249",
+  "type" : "kakaotalk",
+  "number" : "영호",
+  "text" : "벌"
+}
+,{
+  "idx" : "250",
+  "type" : "kakaotalk",
+  "number" : "표동희",
+  "text" : "뭐해야되노"
+}
+,{
+  "idx" : "251",
+  "type" : "kakaotalk",
+  "number" : "표동희",
+  "text" : "뭐해야되노"
+}
+,{
+  "idx" : "252",
+  "type" : "kakaotalk",
+  "number" : "표동희",
+  "text" : "다른 도시 안감!"
+}
+,{
+  "idx" : "253",
+  "type" : "kakaotalk",
+  "number" : "표동희",
+  "text" : "다른 도시 안감!"
+}
+,{
+  "idx" : "254",
+  "type" : "kakaotalk",
+  "number" : "표동희",
+  "text" : "ㅎㅈㅇㅎ"
+}
+,{
+  "idx" : "255",
+  "type" : "kakaotalk",
+  "number" : "표동희",
+  "text" : "ㅎㅈㅇㅎ"
+}
+,{
+  "idx" : "256",
+  "type" : "kakaotalk",
+  "number" : "표동희",
+  "text" : "시작 누르면 다시 5초마다 수신하고"
+}
+,{
+  "idx" : "257",
+  "type" : "kakaotalk",
+  "number" : "표동희",
+  "text" : "딴거 해!"
+}
+,{
+  "idx" : "258",
+  "type" : "kakaotalk",
+  "number" : "안상",
+  "text" : "꾸진건 꾸진거다!"
+}
+,{
+  "idx" : "259",
+  "type" : "kakaotalk",
+  "number" : "안상",
+  "text" : "꾸지꾸지"
+}
+,{
+  "idx" : "260",
+  "type" : "kakaotalk",
+  "number" : "표동희",
+  "text" : "ㅇㅅ ㅁㅎㄴ"
+}
+,{
+  "idx" : "261",
+  "type" : "kakaotalk",
+  "number" : "표동희",
+  "text" : "도시락 사왔나"
+}
+,{
+  "idx" : "262",
+  "type" : "kakaotalk",
+  "number" : "안상",
+  "text" : "균열 돌러 갈까 싶음"
+}
+,{
+  "idx" : "263",
+  "type" : "kakaotalk",
+  "number" : "안상",
+  "text" : "반바지 입고나갓더니"
+}
+,{
+  "idx" : "264",
+  "type" : "kakaotalk",
+  "number" : "안상",
+  "text" : "춥더라"
+}
+,{
+  "idx" : "265",
+  "type" : "kakaotalk",
+  "number" : "안상",
+  "text" : "긴바지 입어라"
+}
+,{
+  "idx" : "266",
+  "type" : "kakaotalk",
+  "number" : "표동희",
+  "text" : "반바지가 있으려나"
+}
+,{
+  "idx" : "267",
+  "type" : "kakaotalk",
+  "number" : "표동희",
+  "text" : "ㅎㅈㅇㅎ"
+}
+,{
+  "idx" : "268",
+  "type" : "kakaotalk",
+  "number" : "고동희",
+  "text" : "통과는 됏고"
+}
+,{
+  "idx" : "269",
+  "type" : "kakaotalk",
+  "number" : "고동희",
+  "text" : "그다음에 글적는거 에서 멈춤"
+}
+,{
+  "idx" : "270",
+  "type" : "kakaotalk",
+  "number" : "고동희",
+  "text" : "밥먹고 할라고 ㅎ"
+}
+,{
+  "idx" : "271",
+  "type" : "kakaotalk",
+  "number" : "고동희",
+  "text" : "ㅈㅎㅈ 귀찬타 아..."
+}
+,{
+  "idx" : "272",
+  "type" : "call",
+  "number" : "01051333567",
+  "text" : "X"
+}
+,{
+  "idx" : "273",
+  "type" : "call",
+  "number" : "01051710880",
+  "text" : "X"
+}
+,{
+  "idx" : "274",
+  "type" : "kakaotalk",
+  "number" : "영호",
+  "text" : "졸업유예의 정의도 확실히모르겟다"
+}
+,{
+  "idx" : "275",
+  "type" : "kakaotalk",
+  "number" : "영호",
+  "text" : "집에서 안하게함"
+}
+,{
+  "idx" : "276",
+  "type" : "kakaotalk",
+  "number" : "영호",
+  "text" : "돈든다이가"
+}
+,{
+  "idx" : "277",
+  "type" : "kakaotalk",
+  "number" : "영호",
+  "text" : "나는집이좀가까워서"
+}
+,{
+  "idx" : "278",
+  "type" : "kakaotalk",
+  "number" : "영호",
+  "text" : "졸업유예는"
+}
+,{
+  "idx" : "279",
+  "type" : "kakaotalk",
+  "number" : "영호",
+  "text" : "졸업요건이되는데"
+}
+,{
+  "idx" : "280",
+  "type" : "kakaotalk",
+  "number" : "영호",
+  "text" : "유예하는거고"
+}
+,{
+  "idx" : "281",
+  "type" : "kakaotalk",
+  "number" : "영호",
+  "text" : "난놀면안된다"
+}
+,{
+  "idx" : "282",
+  "type" : "kakaotalk",
+  "number" : "영호",
+  "text" : "머라도해야한다"
+}
+,{
+  "idx" : "283",
+  "type" : "kakaotalk",
+  "number" : "영호",
+  "text" : "근데"
+}
+,{
+  "idx" : "284",
+  "type" : "kakaotalk",
+  "number" : "영호",
+  "text" : "너무안맞다"
+}
+,{
+  "idx" : "285",
+  "type" : "kakaotalk",
+  "number" : "영호",
+  "text" : "토익공부하면서느낀다"
+}
+,{
+  "idx" : "286",
+  "type" : "kakaotalk",
+  "number" : "영호",
+  "text" : "열심히하면뭐안되는게"
+}
+,{
+  "idx" : "287",
+  "type" : "kakaotalk",
+  "number" : "영호",
+  "text" : "어딧겟냐만은"
+}
+,{
+  "idx" : "288",
+  "type" : "kakaotalk",
+  "number" : "영호",
+  "text" : "흐허"
+}
+,{
+  "idx" : "289",
+  "type" : "kakaotalk",
+  "number" : "영호",
+  "text" : "아니면"
+}
+,{
+  "idx" : "290",
+  "type" : "kakaotalk",
+  "number" : "영호",
+  "text" : "4학년"
+}
+,{
+  "idx" : "291",
+  "type" : "kakaotalk",
+  "number" : "영호",
+  "text" : "1학기를"
+}
+,{
+  "idx" : "292",
+  "type" : "kakaotalk",
+  "number" : "영호",
+  "text" : "그냐앟고"
+}
+,{
+  "idx" : "293",
+  "type" : "kakaotalk",
+  "number" : "영호",
+  "text" : "냥하고"
+}
+,{
+  "idx" : "294",
+  "type" : "kakaotalk",
+  "number" : "영호",
+  "text" : "2학기떄"
+}
+,{
+  "idx" : "295",
+  "type" : "kakaotalk",
+  "number" : "영호",
+  "text" : "할까"
+}
+,{
+  "idx" : "296",
+  "type" : "kakaotalk",
+  "number" : "영호",
+  "text" : "5학년을쳐할까"
+}
+,{
+  "idx" : "297",
+  "type" : "kakaotalk",
+  "number" : "영호",
+  "text" : "학원이란게잇어서"
+}
+,{
+  "idx" : "298",
+  "type" : "kakaotalk",
+  "number" : "영호",
+  "text" : "길을정해줫으면좋겟다"
+}
+,{
+  "idx" : "299",
+  "type" : "kakaotalk",
+  "number" : "영호",
+  "text" : "학점은똥인데"
+}
+,{
+  "idx" : "300",
+  "type" : "kakaotalk",
+  "number" : "영호",
+  "text" : "내 학점"
+}
+,{
+  "idx" : "301",
+  "type" : "kakaotalk",
+  "number" : "영호",
+  "text" : "2.5일걸"
+}
+,{
+  "idx" : "302",
+  "type" : "kakaotalk",
+  "number" : "영호",
+  "text" : "2.6인가"
+}
+,{
+  "idx" : "303",
+  "type" : "kakaotalk",
+  "number" : "영호",
+  "text" : "방학만"
+}
+,{
+  "idx" : "304",
+  "type" : "kakaotalk",
+  "number" : "영호",
+  "text" : "중도갈친구가없네"
+}
+,{
+  "idx" : "305",
+  "type" : "kakaotalk",
+  "number" : "고동희",
+  "text" : "야... 이게 10줄이 적혀지나 ?"
+}
+,{
+  "idx" : "306",
+  "type" : "kakaotalk",
+  "number" : "고동희",
+  "text" : "8줄씩 적는것도힘든대 ㅋㅋㅋ"
+}
+,{
+  "idx" : "307",
+  "type" : "kakaotalk",
+  "number" : "고동희",
+  "text" : "이거 니안되고 내만되면"
+}
+,{
+  "idx" : "308",
+  "type" : "kakaotalk",
+  "number" : "고동희",
+  "text" : "안함"
+}
+,{
+  "idx" : "309",
+  "type" : "kakaotalk",
+  "number" : "고동희",
+  "text" : "니만봄"
+}
+,{
+  "idx" : "310",
+  "type" : "kakaotalk",
+  "number" : "고동희",
+  "text" : "?"
+}
+,{
+  "idx" : "311",
+  "type" : "kakaotalk",
+  "number" : "고동희",
+  "text" : "왜 ㅋㅋ 8줄도 힘든대"
+}
+,{
+  "idx" : "312",
+  "type" : "kakaotalk",
+  "number" : "고동희",
+  "text" : "에라이 내만걸려랏"
+}
+,{
+  "idx" : "313",
+  "type" : "kakaotalk",
+  "number" : "고동희",
+  "text" : "사실 나도 ㅋㅋㅋㅋ 되봐야 알겟는대"
+}
+,{
+  "idx" : "314",
+  "type" : "kakaotalk",
+  "number" : "고동희",
+  "text" : "둘다 됏는대 안갈수도 잇디 ㅎ"
+}
+,{
+  "idx" : "315",
+  "type" : "kakaotalk",
+  "number" : "고동희",
+  "text" : "그냥 솔직하게 적음 ㅋ"
+}
+,{
+  "idx" : "316",
+  "type" : "kakaotalk",
+  "number" : "고동희",
+  "text" : "하고싶다 날뽑아줘~ 이렇게 ㅎ"
+}
+,{
+  "idx" : "317",
+  "type" : "kakaotalk",
+  "number" : "고동희",
+  "text" : "지식자랑을 하기에는 DB에대해 너무 모르겟드라 ㅋ"
+}
+,{
+  "idx" : "318",
+  "type" : "msg",
+  "number" : "15991111",
+  "text" : "[Web발신] 하나,01/31,21:00 880******85007 출금5,800원 카페베네태종대 잔액29,275원"
+}
+,{
+  "idx" : "319",
+  "type" : "kakaotalk",
+  "number" : "고동희",
+  "text" : "낼학교 ㄱ?"
+}
+,{
+  "idx" : "320",
+  "type" : "kakaotalk",
+  "number" : "고동희",
+  "text" : "아 글고보니"
+}
+,{
+  "idx" : "321",
+  "type" : "kakaotalk",
+  "number" : "다예",
+  "text" : "흠... 너무 광범위하니까 잘 모르겟어요ㅋㅋㅋㅋㅋ"
+}
+,{
+  "idx" : "322",
+  "type" : "kakaotalk",
+  "number" : "다예",
+  "text" : "중식은 빼고..."
+}
+,{
+  "idx" : "323",
+  "type" : "kakaotalk",
+  "number" : "다예",
+  "text" : "근데 제가 최근에 치킨피자를 매일먹어가지고ㅜㅜ 지금은 양식이 좀 생각안나네요ㅜ"
+}
+,{
+  "idx" : "324",
+  "type" : "kakaotalk",
+  "number" : "정희재",
+  "text" : "ㅋㅋㅋㅋㅋ"
+}
+,{
+  "idx" : "325",
+  "type" : "kakaotalk",
+  "number" : "정희재",
+  "text" : "ㄱㄱㅊ ㅁㅎㄴ"
+}
+,{
+  "idx" : "326",
+  "type" : "kakaotalk",
+  "number" : "정희재",
+  "text" : "ㄱㄷㅎ"
+}
+,{
+  "idx" : "327",
+  "type" : "kakaotalk",
+  "number" : "정희재",
+  "text" : "ㄱㄷㅎ"
+}
+,{
+  "idx" : "328",
+  "type" : "kakaotalk",
+  "number" : "정희재",
+  "text" : "ㄱㄷㅎ"
+}
+,{
+  "idx" : "329",
+  "type" : "kakaotalk",
+  "number" : "표동희",
+  "text" : "ㄱㄷㅎ ㅁㅎㄴ"
+}
+,{
+  "idx" : "330",
+  "type" : "kakaotalk",
+  "number" : "표동희",
+  "text" : "얼굴도 안보이고"
+}
+,{
+  "idx" : "331",
+  "type" : "kakaotalk",
+  "number" : "영호",
+  "text" : "정고추"
+}
+,{
+  "idx" : "332",
+  "type" : "kakaotalk",
+  "number" : "영호",
+  "text" : "롤하자"
+}
+,{
+  "idx" : "333",
+  "type" : "kakaotalk",
+  "number" : "영호",
+  "text" : "고동형 그때술한번먹어준거"
+}
+,{
+  "idx" : "334",
+  "type" : "kakaotalk",
+  "number" : "영호",
+  "text" : "생색 존나"
+}
+,{
+  "idx" : "335",
+  "type" : "kakaotalk",
+  "number" : "영호",
+  "text" : "내더니"
+}
+,{
+  "idx" : "336",
+  "type" : "kakaotalk",
+  "number" : "영호",
+  "text" : "이제 안보이네"
+}
+,{
+  "idx" : "337",
+  "type" : "kakaotalk",
+  "number" : "영호",
+  "text" : "이럴려고"
+}
+,{
+  "idx" : "338",
+  "type" : "kakaotalk",
+  "number" : "영호",
+  "text" : "그랫제"
+}
+,{
+  "idx" : "339",
+  "type" : "kakaotalk",
+  "number" : "정희재",
+  "text" : "지금"
+}
+,{
+  "idx" : "340",
+  "type" : "kakaotalk",
+  "number" : "정희재",
+  "text" : "해양"
+}
+,{
+  "idx" : "341",
+  "type" : "kakaotalk",
+  "number" : "정희재",
+  "text" : "프로젝트"
+}
+,{
+  "idx" : "342",
+  "type" : "kakaotalk",
+  "number" : "정희재",
+  "text" : "하고있다.."
+}
+,{
+  "idx" : "343",
+  "type" : "kakaotalk",
+  "number" : "영호",
+  "text" : "?"
+}
+,{
+  "idx" : "344",
+  "type" : "kakaotalk",
+  "number" : "영호",
+  "text" : "해양"
+}
+,{
+  "idx" : "345",
+  "type" : "kakaotalk",
+  "number" : "영호",
+  "text" : "ㅇㄴ끝낫나"
+}
+,{
+  "idx" : "346",
+  "type" : "kakaotalk",
+  "number" : "정희재",
+  "text" : "영혼의 듀오중"
+}
+,{
+  "idx" : "347",
+  "type" : "kakaotalk",
+  "number" : "정희재",
+  "text" : "ㄱㄷㅎ이 우리 버림;;"
+}
+,{
+  "idx" : "348",
+  "type" : "kakaotalk",
+  "number" : "영호",
+  "text" : "?"
+}
+,{
+  "idx" : "349",
+  "type" : "kakaotalk",
+  "number" : "영호",
+  "text" : "ㄱㄷㅎ"
+}
+,{
+  "idx" : "350",
+  "type" : "kakaotalk",
+  "number" : "영호",
+  "text" : "ㅈㄱㅊ"
+}
+,{
+  "idx" : "351",
+  "type" : "kakaotalk",
+  "number" : "영호",
+  "text" : "그브정글로"
+}
+,{
+  "idx" : "352",
+  "type" : "kakaotalk",
+  "number" : "영호",
+  "text" : "1승햇다"
+}
+,{
+  "idx" : "353",
+  "type" : "kakaotalk",
+  "number" : "종호",
+  "text" : "ㅎㅈㅇㅎ"
+}
+,{
+  "idx" : "354",
+  "type" : "kakaotalk",
+  "number" : "종호",
+  "text" : "ㅎㅈㅇㅎ"
+}
+,{
+  "idx" : "355",
+  "type" : "kakaotalk",
+  "number" : "종호",
+  "text" : "ㅎㅈㅇㅎ"
+}
+,{
+  "idx" : "356",
+  "type" : "kakaotalk",
+  "number" : "종호",
+  "text" : "ㅎㅈㅇㅎ"
+}
+,{
+  "idx" : "357",
+  "type" : "kakaotalk",
+  "number" : "영호",
+  "text" : "ㅎㅈㅇㅎ"
+}
+,{
+  "idx" : "358",
+  "type" : "kakaotalk",
+  "number" : "종호",
+  "text" : "ㅎㅈㅇㅎ왜 내꺼 안되지"
+}
+,{
+  "idx" : "359",
+  "type" : "kakaotalk",
+  "number" : "영호",
+  "text" : "ㅎㅈㅇㅎ"
+}
+,{
+  "idx" : "360",
+  "type" : "kakaotalk",
+  "number" : "영호",
+  "text" : "ㅎㅈㅇㅎ주라니깐"
+}
+,{
+  "idx" : "361",
+  "type" : "kakaotalk",
+  "number" : "영호",
+  "text" : "ㅎㅈㅇㅎ한테안해준데"
+}
+,{
+  "idx" : "362",
+  "type" : "kakaotalk",
+  "number" : "종호",
+  "text" : "왜 한준이형꺼"
+}
+,{
+  "idx" : "363",
+  "type" : "kakaotalk",
+  "number" : "안상",
+  "text" : "한준햄께 그거가"
+}
+,{
+  "idx" : "364",
+  "type" : "kakaotalk",
+  "number" : "영호",
+  "text" : "ㅎㅈㅇㅎ"
+}
+,{
+  "idx" : "365",
+  "type" : "kakaotalk",
+  "number" : "안상",
+  "text" : "나도 한준햄꺼랑은 안해봄"
+}
+,{
+  "idx" : "366",
+  "type" : "kakaotalk",
+  "number" : "안상",
+  "text" : "한준햄이 치사해서"
+}
+,{
+  "idx" : "367",
+  "type" : "kakaotalk",
+  "number" : "한동헌",
+  "text" : "으아"
+}
+,{
+  "idx" : "368",
+  "type" : "kakaotalk",
+  "number" : "한동헌",
+  "text" : "다했어"
+}
+,{
+  "idx" : "369",
+  "type" : "kakaotalk",
+  "number" : "한동헌",
+  "text" : "해양프로젝트"
+}
+,{
+  "idx" : "370",
+  "type" : "msg",
+  "number" : "15991111",
+  "text" : "[Web발신] [KEB하나은행]이한준님 2016/02/29부터 인터넷뱅킹 미사용으로 이체거래 정지예정"
+}
+,{
+  "idx" : "372",
+  "type" : "kakaotalk",
+  "number" : "안상",
+  "text" : "ㅎㅈㅇㅎ"
+}
+,{
+  "idx" : "373",
+  "type" : "kakaotalk",
+  "number" : "영호",
+  "text" : "휴학하나"
+}
+,{
+  "idx" : "374",
+  "type" : "kakaotalk",
+  "number" : "영호",
+  "text" : "이제일어낫다"
+}
+,{
+  "idx" : "375",
+  "type" : "kakaotalk",
+  "number" : "영호",
+  "text" : "밥먹을시간안될듯"
+}
+,{
+  "idx" : "376",
+  "type" : "kakaotalk",
+  "number" : "영호",
+  "text" : "근데"
+}
+,{
+  "idx" : "377",
+  "type" : "kakaotalk",
+  "number" : "영호",
+  "text" : "그냥굶을락"
+}
+,{
+  "idx" : "378",
+  "type" : "kakaotalk",
+  "number" : "안상",
+  "text" : "ㅎㅈㅇㅎ인가"
+}
+,{
+  "idx" : "379",
+  "type" : "kakaotalk",
+  "number" : "영호",
+  "text" : "어디고"
+}
+,{
+  "idx" : "380",
+  "type" : "kakaotalk",
+  "number" : "영호",
+  "text" : "수강신청하제"
+}
+,{
+  "idx" : "381",
+  "type" : "kakaotalk",
+  "number" : "영호",
+  "text" : "??"
+}
+,{
+  "idx" : "382",
+  "type" : "kakaotalk",
+  "number" : "영호",
+  "text" : "피엘"
+}
+,{
+  "idx" : "383",
+  "type" : "kakaotalk",
+  "number" : "영호",
+  "text" : "김호원좋나"
+}
+,{
+  "idx" : "384",
+  "type" : "kakaotalk",
+  "number" : "영호",
+  "text" : "유닉스도첫수강해야함"
+}
+,{
+  "idx" : "385",
+  "type" : "kakaotalk",
+  "number" : "영호",
+  "text" : "할게많다"
+}
+,{
+  "idx" : "386",
+  "type" : "call",
+  "number" : "01064143757",
+  "text" : "X"
+}
+,{
+  "idx" : "387",
+  "type" : "call",
+  "number" : "01041236176",
+  "text" : "X"
+}
+,{
+  "idx" : "388",
+  "type" : "msg",
+  "number" : "01088975172",
+  "text" : "Fuck"
+}
+,{
+  "idx" : "389",
+  "type" : "call",
+  "number" : "01088975172",
+  "text" : "X"
+}
+,{
+  "idx" : "390",
+  "type" : "kakaotalk",
+  "number" : "영호",
+  "text" : "ㅎㅈㅇㅎ"
+}
+,{
+  "idx" : "391",
+  "type" : "msg",
+  "number" : "01035452038",
+  "text" : "테스트"
+}
+,{
+  "idx" : "392",
+  "type" : "msg",
+  "number" : "01035452038",
+  "text" : "하이"
+}
+,{
+  "idx" : "393",
+  "type" : "kakaotalk",
+  "number" : "박태영",
+  "text" : "ㅍ업ㅎㅌ"
+}
+,{
+  "idx" : "394",
+  "type" : "call",
+  "number" : "01032090579",
+  "text" : "X"
+}
+,{
+  "idx" : "395",
+  "type" : "kakaotalk",
+  "number" : "박태영",
+  "text" : "호잇"
+}
+,{
+  "idx" : "396",
+  "type" : "kakaotalk",
+  "number" : "다예",
+  "text" : "아이쿠 조금 늦었네요ㅠㅠ 죄송해요 지금 북문근처에서 가는길이에요ㅠ"
+}
+,{
+  "idx" : "397",
+  "type" : "kakaotalk",
+  "number" : "다예",
+  "text" : "정말 죄송해요ㅠ 안늦게 준비한다고 했는데"
+}
+,{
+  "idx" : "398",
+  "type" : "kakaotalk",
+  "number" : "다예",
+  "text" : "저 엔씨입구쪽인데"
+}
+,{
+  "idx" : "399",
+  "type" : "kakaotalk",
+  "number" : "다예",
+  "text" : "블루베리앞이시라구요?"
+}
+,{
+  "idx" : "400",
+  "type" : "msg",
+  "number" : "15991111",
+  "text" : "[Web발신] 하나,02/01,19:22 880******85007 출금20,000원 아비꼬 잔액9,275원"
+}
+,{
+  "idx" : "401",
+  "type" : "kakaotalk",
+  "number" : "영호",
+  "text" : "천탁"
+}
+,{
+  "idx" : "402",
+  "type" : "kakaotalk",
+  "number" : "다예",
+  "text" : "ㅋㅋㅋ그러게요 시간 빨리가네요"
+}
+,{
+  "idx" : "403",
+  "type" : "kakaotalk",
+  "number" : "다예",
+  "text" : "그때그때 다른거같아요ㅋㅋ 뭐하러가냐에따라...ㅋㅋㅋ"
+}
+,{
+  "idx" : "404",
+  "type" : "kakaotalk",
+  "number" : "다예",
+  "text" : "들켰닼ㅋ 이제 원피스보려구요ㅋㅋㅋ 집조심히가세요! 먼길 고생하시네요ㅜ"
+}
+,{
+  "idx" : "405",
+  "type" : "kakaotalk",
+  "number" : "조우경",
+  "text" : "한준오빠 이미지서치 합쳐봤어요?"
+}
+,{
+  "idx" : "406",
+  "type" : "kakaotalk",
+  "number" : "조우경",
+  "text" : "한준오빠 이미지서치 합쳐봤어요?"
+}
+,{
+  "idx" : "407",
+  "type" : "kakaotalk",
+  "number" : "현호형",
+  "text" : "아니 내일 해볼게 한준아 계속 바빴네ㅠㅠ"
+}
+,{
+  "idx" : "408",
+  "type" : "kakaotalk",
+  "number" : "현호형",
+  "text" : "아니 내일 해볼게 한준아 계속 바빴네ㅠㅠ"
+}
+,{
+  "idx" : "409",
+  "type" : "kakaotalk",
+  "number" : "현호형",
+  "text" : "수영로교회 정말 좋더라~~^^"
+}
+,{
+  "idx" : "410",
+  "type" : "kakaotalk",
+  "number" : "현호형",
+  "text" : "수영로교회 정말 좋더라~~^^"
+}
+,{
+  "idx" : "411",
+  "type" : "kakaotalk",
+  "number" : "영호",
+  "text" : "집간다"
+}
+,{
+  "idx" : "412",
+  "type" : "kakaotalk",
+  "number" : "영호",
+  "text" : "집간다"
+}
+,{
+  "idx" : "413",
+  "type" : "kakaotalk",
+  "number" : "영호",
+  "text" : "학교다니야겟다"
+}
+,{
+  "idx" : "414",
+  "type" : "kakaotalk",
+  "number" : "영호",
+  "text" : "학교다니야겟다"
+}
+,{
+  "idx" : "415",
+  "type" : "kakaotalk",
+  "number" : "영호",
+  "text" : "ㅎㅈㅇㅎ(우와)"
+}
+,{
+  "idx" : "416",
+  "type" : "kakaotalk",
+  "number" : "영호",
+  "text" : "ㅎㅈㅇㅎ(우와)"
+}
+,{
+  "idx" : "417",
+  "type" : "kakaotalk",
+  "number" : "영호",
+  "text" : "머하노"
+}
+,{
+  "idx" : "418",
+  "type" : "kakaotalk",
+  "number" : "영호",
+  "text" : "머하노"
+}
+,{
+  "idx" : "419",
+  "type" : "kakaotalk",
+  "number" : "영호",
+  "text" : "자자"
+}
+,{
+  "idx" : "420",
+  "type" : "kakaotalk",
+  "number" : "영호",
+  "text" : "자자"
+}
+,{
+  "idx" : "421",
+  "type" : "kakaotalk",
+  "number" : "카카오톡",
+  "text" : "새로운 메시지가 있습니다."
+}
+,{
+  "idx" : "422",
+  "type" : "kakaotalk",
+  "number" : "카카오톡",
+  "text" : "새로운 메시지가 있습니다."
+}
+,{
+  "idx" : "423",
+  "type" : "kakaotalk",
+  "number" : "카카오톡",
+  "text" : "새로운 메시지가 있습니다."
+}
+,{
+  "idx" : "424",
+  "type" : "kakaotalk",
+  "number" : "카카오톡",
+  "text" : "새로운 메시지가 있습니다."
+}
+,{
+  "idx" : "425",
+  "type" : "msg",
+  "number" : "01035452038",
+  "text" : "문자 ㅇㅅ"
+}
+,{
+  "idx" : "426",
+  "type" : "call",
+  "number" : "01035452038",
+  "text" : "X"
+}
+,{
+  "idx" : "427",
+  "type" : "kakaotalk",
+  "number" : "이한준 형",
+  "text" : "카톡 ㅇㅅ"
+}
+,{
+  "idx" : "428",
+  "type" : "kakaotalk",
+  "number" : "이한준 형",
+  "text" : "ㅇㅅ 갠톡하고 전화 몇ㅍ개만 테스트해볼게"
+}
+,{
+  "idx" : "429",
+  "type" : "msg",
+  "number" : "01035452038",
+  "text" : "뮬자"
+}
+]
+}

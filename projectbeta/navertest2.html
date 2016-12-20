@@ -1,0 +1,25 @@
+<?php
+require_once $_SERVER['DOCUMENT_ROOT'].'/Naver.php';
+$naver = new Naver(array(
+        "CLIENT_ID" => "Bw3ZzfN9QKVedFZvGiK9",        // (*필수)클라이언트 ID  
+        "CLIENT_SECRET" => "6MYc8n6McP",    // (*필수)클라이언트 시크릿
+        "RETURN_URL" => "http://gorapaduk.dothome.co.kr/projectbeta/",      // (*필수)콜백 URL
+        "AUTO_CLOSE" => false,              // 인증 완료후 팝업 자동으로 닫힘 여부 설정 (추가 정보 기재등 추가행동 필요시 false 설정 후 추가)
+        "SHOW_LOGOUT" => false              // 인증 후에 네이버 로그아웃 버튼 표시/ 또는 표시안함
+        )
+    );
+?>
+<!DOCTYPE HTML>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0, width=device-width">
+    <script type="text/javascript" src="naverlogin.js"></script>
+    </head>
+  <body>
+  	<div class="login_box">
+     <?=$naver->login()?>
+    </div>
+  </body>
+ </html>

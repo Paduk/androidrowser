@@ -1,0 +1,7 @@
+gcm_first.php -> gcm_second.php는 되고 이건 안됨 나중에 분석
+gcm_second.php -> gcm.server.html에서 GCM 푸시 전송시 동작하는 서버 
+gcm.server.html -> GCM Push 전송 페이지
+istheresameid.html,php -> 안드로이드에서 id 중복 여부 확인 php,테스트 페이지(html)
+id.php -> 안드로이드 회원가입 php
+gps.php -> 안드로이드에서 GPS정보 DB 저장
+getaddr.php -> 안드로이드에서 전화번호부 요청 값 DB 저장
