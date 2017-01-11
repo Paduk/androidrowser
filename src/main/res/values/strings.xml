@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Beta</string>
+    <string name="app_name">Androidrowser</string>
     <string name="action_settings">Settings</string>
-    <string name="title_activity_join">Join</string>
+    <string name="title_activity_join">Androidrowser_Join</string>
 </resources>

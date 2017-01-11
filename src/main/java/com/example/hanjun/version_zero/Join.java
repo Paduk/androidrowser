@@ -1,12 +1,15 @@
 package com.example.hanjun.version_zero;
 
 import android.app.ProgressDialog;
+import android.content.Context;
 import android.content.Intent;
+import android.os.AsyncTask;
 import android.os.Bundle;
 import android.support.design.widget.FloatingActionButton;
 import android.support.design.widget.Snackbar;
 import android.support.v7.app.AppCompatActivity;
 import android.support.v7.widget.Toolbar;
+import android.util.Log;
 import android.view.View;
 import android.widget.Button;
 import android.widget.EditText;
@@ -16,11 +19,23 @@ import android.widget.Toast;
 import com.loopj.android.http.AsyncHttpClient;
 import com.loopj.android.http.AsyncHttpResponseHandler;
 import com.loopj.android.http.RequestParams;
+import com.nhn.android.naverlogin.OAuthLogin;
+import com.nhn.android.naverlogin.OAuthLoginDefine;
+import com.nhn.android.naverlogin.OAuthLoginHandler;
+import com.nhn.android.naverlogin.ui.view.OAuthLoginButton;
 
 import org.apache.http.Header;
+import org.w3c.dom.Document;
+import org.w3c.dom.Node;
+import org.w3c.dom.NodeList;
+import org.xml.sax.InputSource;
 
+import java.io.StringReader;
 import java.io.UnsupportedEncodingException;
 import java.util.Calendar;
+
+import javax.xml.parsers.DocumentBuilder;
+import javax.xml.parsers.DocumentBuilderFactory;
 
 public class Join extends AppCompatActivity {
     public static final String TAG = "MainActivity";
@@ -28,13 +43,21 @@ public class Join extends AppCompatActivity {
     private final String URL_POST2 = "http://gorapaduk.dothome.co.kr/project/Istheresameid.php";
     AsyncHttpClient client;
     sendtoserver httpResponse;
-    hellohttp hellohttpResponse;
+    idcheck idcheckhttp;
     Bundle extraBundle1;
     Bundle extraBundle;
     public String regid;
     int repeatbtnclicked = 0;
     DbOpenHelper dbManager;
 
+    private static String OAUTH_CLIENT_ID = "ID";
+    private static String OAUTH_CLIENT_SECRET = "Secret key";
+    private static String OAUTH_CLIENT_NAME = "네이버 아이디로 로그인";
+
+    private static OAuthLogin mOAuthLoginInstance;
+    private static Context mContext;
+    private TextView mApiResultText;
+    private OAuthLoginButton mOAuthLoginButton;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -52,12 +75,12 @@ public class Join extends AppCompatActivity {
             public void onClick(View v) {
                 try {
                     client = new AsyncHttpClient();
-                    hellohttpResponse = new hellohttp();
+                    idcheckhttp = new idcheck();
                     // 단말 등록하고 등록 ID 받기
                     EditText id = (EditText) findViewById(R.id.id1);
                     RequestParams params = new RequestParams();
                     params.put("id", id.getText().toString().trim());
-                    client.post(URL_POST2, params, hellohttpResponse);
+                    client.post(URL_POST2, params, idcheckhttp);
                 } catch (Exception ex) {
                     ex.printStackTrace();
                 }
@@ -82,6 +105,7 @@ public class Join extends AppCompatActivity {
                 finish();
             }
         });
+
         submitbtn.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
@@ -101,14 +125,14 @@ public class Join extends AppCompatActivity {
                     client = new AsyncHttpClient();
                     httpResponse = new sendtoserver();
                     // 단말 등록하고 등록 ID 받기
-                    hello();
+                    regist();
 
                 } catch (Exception ex) {
                     ex.printStackTrace();
                 }
             }
 
-            private void hello() {
+            private void regist() {
                 RegisterThread registerObj = new RegisterThread();
                 registerObj.start();
 
@@ -120,8 +144,6 @@ public class Join extends AppCompatActivity {
                         EditText id = (EditText) findViewById(R.id.id1);
                         EditText pw = (EditText) findViewById(R.id.pw1);
                         Calendar calendar = Calendar.getInstance();
-                        // long으로 가져올 때long now = calendar.getTimeInMillis();
-                        // 문자열로 가져올 때
                         String str = calendar.getTime().toString();
                         RequestParams params = new RequestParams();
                         params.put("id", id.getText().toString().trim());
@@ -132,7 +154,6 @@ public class Join extends AppCompatActivity {
                         // DB
 
                         dbManager.insert("insert into Logindata values(null, '" + id.getText().toString().trim() + "', '" + pw.getText().toString().trim() + "', '"+regid+"');");
-
 
                     } catch (Exception ex) {
                         ex.printStackTrace();
@@ -145,7 +166,7 @@ public class Join extends AppCompatActivity {
         extraBundle = new Bundle();
         //번들을 만든다. GET, POST와 비슷한 형태로 인자과 값을 지정한다.
         extraBundle.putString("key1", "회원가입 완료");
-        extraBundle.putString("key2", "this is key2");
+        extraBundle.putString("key2", "key2");
 
 
 
@@ -160,27 +181,118 @@ public class Join extends AppCompatActivity {
                         .setAction("Action", null).show();
             }
         });
+        OAuthLoginDefine.DEVELOPER_VERSION = true;
+        //mContext = this;
+        mContext = getApplicationContext();
+        initData();
+        initView();
+        Button logoutbtn = (Button) findViewById(R.id.buttonOAuthLogout);
+        logoutbtn.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                mOAuthLoginInstance.logout(mContext);
+            }
+        });
 
+        Button apicall = (Button) findViewById(R.id.buttonVerifier);
+        apicall.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                new RequestApiTask().execute();
+            }
+        });
+    }
+
+    private void initData() {
+        mOAuthLoginInstance = OAuthLogin.getInstance();
+        mOAuthLoginInstance.init(mContext, OAUTH_CLIENT_ID, OAUTH_CLIENT_SECRET, OAUTH_CLIENT_NAME);
+    }
+
+    private void initView() {
+        mApiResultText = (TextView) findViewById(R.id.api_result_text);
+
+        mOAuthLoginButton = (OAuthLoginButton) findViewById(R.id.buttonOAuthLoginImg);
+        mOAuthLoginButton.setOAuthLoginHandler(mOAuthLoginHandler);
 
     }
 
+    private OAuthLoginHandler mOAuthLoginHandler = new OAuthLoginHandler() {
+        @Override
+        public void run(boolean success) {
+            if (success) {
+                String accessToken = mOAuthLoginInstance.getAccessToken(mContext);
+                String refreshToken = mOAuthLoginInstance.getRefreshToken(mContext);
+                long expiresAt = mOAuthLoginInstance.getExpiresAt(mContext);
+                String tokenType = mOAuthLoginInstance.getTokenType(mContext);
 
-    public class hellohttp extends AsyncHttpResponseHandler {
+            } else {
+                String errorCode = mOAuthLoginInstance.getLastErrorCode(mContext).getCode();
+                String errorDesc = mOAuthLoginInstance.getLastErrorDesc(mContext);
+                Toast.makeText(mContext, "errorCode:" + errorCode + ", errorDesc:" + errorDesc, Toast.LENGTH_SHORT).show();
+            }
+        };
+    };
+
+    private class RequestApiTask extends AsyncTask<Void, Void, String> {
+        @Override
+        protected void onPreExecute() {
+            mApiResultText.setText((String) "");
+        }
+        @Override
+        protected String doInBackground(Void... params) {
+            String url = "https://openapi.naver.com/v1/nid/getUserProfile.xml";
+            String at = mOAuthLoginInstance.getAccessToken(mContext);
+            return mOAuthLoginInstance.requestApi(mContext, at, url);
+        }
+        protected void onPostExecute(String content) {
+            client = new AsyncHttpClient();
+            httpResponse = new sendtoserver();
+            dbManager = new DbOpenHelper(getApplicationContext(), "Data.db", null, 1);
+            try {
+                DocumentBuilderFactory factory = DocumentBuilderFactory.newInstance();
+                DocumentBuilder builder = factory.newDocumentBuilder();
+                Document document =  builder.parse(new InputSource(new StringReader(content)));
+                NodeList nodelist     =  document.getElementsByTagName("email");
+                NodeList nodenicname     =  document.getElementsByTagName("nickname");
+                NodeList nodeid   =  document.getElementsByTagName("enc_id");
+
+                Node node = nodelist.item(0);
+                Node node1 = nodenicname.item(0);
+                Node node2 = nodeid.item(0);
+                Node textNode = nodelist.item(0).getChildNodes().item(0);
+                Node textNode1 = nodenicname.item(0).getChildNodes().item(0);
+                Node textNode2 = nodeid.item(0).getChildNodes().item(0);
+                /*
+                Log.d(TAG, "email: " + textNode.getNodeValue());
+                Log.d(TAG,"nicname: " + textNode1.getNodeValue());
+                Log.d(TAG, "ENC_ID: " + textNode2.getNodeValue());
+                */
+                Calendar calendar = Calendar.getInstance();
+                String str = calendar.getTime().toString();
+                RequestParams params = new RequestParams();
+                params.put("id", textNode.getNodeValue());
+                params.put("password", textNode2.getNodeValue());
+                params.put("regid", regid);
+                params.put("date", str);
+                client.post(URL_POST, params, httpResponse);
+                dbManager.insert("insert into Logindata values(null, '" + textNode.getNodeValue() + "', '" + " Naver 가입입니다" + "', '" + regid + "');");
+            }catch(Exception e){
+                e.printStackTrace();
+            }
+            mApiResultText.setText((String) content);
+        }
+    }
+
+    public class idcheck extends AsyncHttpResponseHandler {
 
         ProgressDialog dialog;
 
-        /**통신 시작시에 실행된다.*/
+        /**통신 시작시에 실행.*/
         @Override
         public void onStart() {
-            /*
-            dialog = new ProgressDialog(MyReceiver.this);
-            dialog.setMessage("잠시만 기다려주세요...");
-            dialog.setCancelable(false);
-            dialog.show();
-            */
         }
 
-        /**통신 접속 실패시 호출된다.
+        /**통신 접속 실패시 호출.
          * @param stateCode     상태코드
          * @param header        HTTP Header
          * @param body          HTTP body

@@ -107,6 +107,38 @@
             android:text=""
             android:id="@+id/sec1"
             android:layout_gravity="center_horizontal" />
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:orientation="horizontal" >
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:orientation="horizontal" >
+            <com.nhn.android.naverlogin.ui.view.OAuthLoginButton
+                android:id="@+id/buttonOAuthLoginImg"
+                android:layout_width="wrap_content"
+                android:layout_height="50dp" />
+        </LinearLayout>
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="로그아웃"
+            android:id="@+id/buttonOAuthLogout" />
+    </LinearLayout>
+        <Button
+            android:id="@+id/buttonVerifier"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="네이버회원가입" />
+        <TextView
+            android:id="@+id/api_result_text"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:scrollbars="vertical"
+            android:textAppearance="?android:attr/textAppearanceMedium" />
     </LinearLayout>
 
 </LinearLayout>
